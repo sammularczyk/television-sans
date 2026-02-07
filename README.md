@@ -3,7 +3,7 @@
 A geometric, 80’s inspired variable typeface.
 
 > [!WARNING]
-> This is WIP, further glyphs and kerning updates to come. Feedback very welcome!
+> This is WIP. Feedback very welcome! Missing @ £ < > { } & ~ ^ glyphs, some punctuation, accents. Kerning updates to come. 
 
 ![Television Sans Preview](/docs/images/television-sans-01.png)
 
