@@ -51,7 +51,8 @@ t,
 "/f_f.liga.ss05",
 "/f_f_i.liga.ss05",
 "/f_t.liga.ss05",
-"/f_t.liga"
+"/f_t.liga",
+"yobzb?!!!!Ằ"
 );
 axes = (
 {
@@ -866,7 +867,7 @@ unicode = 66;
 },
 {
 glyphname = Bdotaccent;
-lastChange = "2026-02-11 09:18:43 +0000";
+lastChange = "2026-02-11 09:22:12 +0000";
 layers = (
 {
 layerId = m01;
@@ -879,7 +880,7 @@ pos = (44,0);
 ref = dotaccentcomb;
 }
 );
-width = 580.5;
+width = 558.5;
 },
 {
 layerId = m002;
@@ -892,7 +893,7 @@ pos = (48,0);
 ref = dotaccentcomb;
 }
 );
-width = 531;
+width = 493.5;
 }
 );
 metricLeft = H;
@@ -3052,7 +3053,7 @@ pos = (42,0);
 ref = periodcentered;
 }
 );
-width = 512;
+width = 492;
 },
 {
 layerId = m002;
@@ -3065,7 +3066,7 @@ pos = (70,0);
 ref = periodcentered;
 }
 );
-width = 547;
+width = 527;
 }
 );
 metricLeft = H;
@@ -6516,9 +6517,9 @@ unicode = 230;
 },
 {
 glyphname = b;
-kernLeft = "0";
-kernRight = "0";
-lastChange = "2026-02-10 22:44:32 +0000";
+kernLeft = h;
+kernRight = o;
+lastChange = "2026-02-11 09:48:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -9772,9 +9773,9 @@ unicode = 339;
 },
 {
 glyphname = p;
-kernLeft = p;
-kernRight = p;
-lastChange = "2026-02-10 22:44:32 +0000";
+kernLeft = h;
+kernRight = o;
+lastChange = "2026-02-11 09:55:21 +0000";
 layers = (
 {
 layerId = m01;
@@ -13958,7 +13959,7 @@ unicode = 32;
 glyphname = period;
 kernLeft = period;
 kernRight = period;
-lastChange = "2026-02-10 22:44:32 +0000";
+lastChange = "2026-02-11 09:54:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -14213,7 +14214,7 @@ unicode = 8230;
 glyphname = exclam;
 kernLeft = "0";
 kernRight = "0";
-lastChange = "2026-02-10 22:44:32 +0000";
+lastChange = "2026-02-11 09:54:45 +0000";
 layers = (
 {
 layerId = m01;
@@ -14240,10 +14241,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(141.5,131,l),
+(141.5,187,l),
 (147.5,700,l),
 (86.5,700,l),
-(92.5,131,l)
+(92.5,187,l)
 );
 },
 {
@@ -14291,9 +14292,9 @@ unicode = 161;
 },
 {
 glyphname = question;
-kernLeft = "0";
-kernRight = "0";
-lastChange = "2026-02-10 22:44:32 +0000";
+kernLeft = question;
+kernRight = question;
+lastChange = "2026-02-11 09:56:11 +0000";
 layers = (
 {
 layerId = m01;
@@ -14332,7 +14333,7 @@ pos = (139,0);
 ref = period;
 }
 );
-width = 484;
+width = 476.5;
 },
 {
 layerId = m002;
@@ -14340,49 +14341,49 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(90.5,505,l),
-(111.5,579,o),
-(150.5,651,o),
-(227.5,651,cs),
-(342.5,651,o),
-(377.5,520,o),
-(314.5,424,cs),
-(258.5,339,o),
-(192.5,301,o),
-(192.5,199,c),
-(192.5,189,l),
-(192.5,127,l),
-(252.5,127,l),
-(252.5,189,l),
-(252.5,269,o),
-(313.5,305,o),
-(355.5,373,cs),
-(448.5,524,o),
-(400.5,714,o),
-(223.5,714,c),
-(223.5,714,l),
-(115.5,714,o),
-(52.5,623,o),
-(37.5,516,c)
+(90.5,521.5,l),
+(122,612,o),
+(160.5,651,o),
+(219,651,cs),
+(326,651,o),
+(377,525.5,o),
+(306,436.5,cs),
+(227,338,o),
+(184,297,o),
+(184,221,c),
+(184,212,l),
+(184,187,l),
+(244,187,l),
+(244,212,l),
+(244,279.5,o),
+(275,304,o),
+(347,392.5,cs),
+(458,529,o),
+(380.5,714,o),
+(215,714,c),
+(215,714,l),
+(136.5,714,o),
+(60,641.5,o),
+(37.5,545.5,c)
 );
 },
 {
-pos = (140.5,0);
+pos = (135.5,0);
 ref = period;
 }
 );
-width = 439.5;
+width = 424;
 }
 );
 metricLeft = "=H/2";
-metricRight = "=H/2";
+metricRight = "=H/3";
 unicode = 63;
 },
 {
 glyphname = questiondown;
 kernLeft = "0";
 kernRight = "0";
-lastChange = "2026-02-10 22:44:32 +0000";
+lastChange = "2026-02-11 09:54:52 +0000";
 layers = (
 {
 layerId = m01;
@@ -14393,18 +14394,18 @@ pos = (484,579);
 ref = question;
 }
 );
-width = 484;
+width = 476.5;
 },
 {
 layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (439.5,579);
+pos = (436,579);
 ref = question;
 }
 );
-width = 439.5;
+width = 423.5;
 }
 );
 metricLeft = question;
@@ -18229,7 +18230,11 @@ m01 = {
 "@MMK_R_w" = -30;
 };
 "@MMK_L_o" = {
+"@MMK_R_question" = -40;
 "@MMK_R_w" = -20;
+};
+"@MMK_L_question" = {
+Abrevegrave = 0;
 };
 "@MMK_L_r" = {
 "@MMK_R_o" = -20;
@@ -18306,6 +18311,9 @@ m002 = {
 "@MMK_L_f.ss05" = {
 "@MMK_R_h" = -20;
 };
+"@MMK_L_h" = {
+"@MMK_R_question" = -30;
+};
 "@MMK_L_i" = {
 "@MMK_R_j" = -80;
 };
@@ -18314,13 +18322,21 @@ m002 = {
 };
 "@MMK_L_o" = {
 "@MMK_R_f" = 0;
+"@MMK_R_period" = -20;
+"@MMK_R_question" = -50;
 "@MMK_R_x" = -30;
 igrave = 0;
+};
+"@MMK_L_period" = {
+"@MMK_R_question" = -20;
 };
 "@MMK_L_r" = {
 "@MMK_R_d" = -20;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -100;
+};
+"@MMK_L_s" = {
+"@MMK_R_question" = -20;
 };
 "@MMK_L_w" = {
 "@MMK_R_o" = -10;
