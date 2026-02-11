@@ -22,12 +22,17 @@ E,
 "}",
 "{",
 78.com,
-89VAVARTFACEOR
+TYPEFACE
 );
 axes = (
 {
 name = Weight;
 tag = wght;
+},
+{
+hidden = 1;
+name = Italic;
+tag = ital;
 }
 );
 date = "2026-01-11 06:13:19 +0000";
@@ -221,7 +226,8 @@ tag = ss04;
 fontMaster = (
 {
 axesValues = (
-600
+600,
+0
 );
 customParameters = (
 {
@@ -269,7 +275,8 @@ GSCornerRadius = 20;
 },
 {
 axesValues = (
-200
+200,
+0
 );
 customParameters = (
 {
@@ -321,7 +328,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2026-02-11 00:01:03 +0000";
+lastChange = "2026-02-11 00:05:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -842,9 +849,9 @@ unicode = 7682;
 },
 {
 glyphname = C;
-kernLeft = "0";
-kernRight = "0";
-lastChange = "2026-02-11 00:00:10 +0000";
+kernLeft = O;
+kernRight = C;
+lastChange = "2026-02-11 00:03:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -17373,7 +17380,8 @@ width = 593;
 instances = (
 {
 axesValues = (
-600
+600,
+0
 );
 instanceInterpolations = {
 m01 = 1;
@@ -17385,7 +17393,8 @@ weightClass = 900;
 },
 {
 axesValues = (
-500
+500,
+0
 );
 instanceInterpolations = {
 m002 = 0.25;
@@ -17396,7 +17405,8 @@ weightClass = 700;
 },
 {
 axesValues = (
-450
+450,
+0
 );
 instanceInterpolations = {
 m002 = 0.375;
@@ -17407,7 +17417,8 @@ weightClass = 500;
 },
 {
 axesValues = (
-400
+400,
+0
 );
 instanceInterpolations = {
 m002 = 0.5;
@@ -17417,7 +17428,8 @@ name = Regular;
 },
 {
 axesValues = (
-300
+300,
+0
 );
 instanceInterpolations = {
 m002 = 0.75;
@@ -17428,44 +17440,14 @@ weightClass = 300;
 },
 {
 axesValues = (
-200
+200,
+0
 );
 instanceInterpolations = {
 m002 = 1;
 };
 name = Extralight;
 weightClass = 200;
-},
-{
-axesValues = (
-400
-);
-customParameters = (
-{
-name = PreFilter;
-value = Decompose;
-},
-{
-name = PreFilter;
-value = RemoveOverlap;
-},
-{
-name = Filter;
-value = "Transformations;Slant:10;SlantCorrection:0;Origin:1;";
-},
-{
-name = "Rename Glyphs";
-value = (
-"a=a.ss01"
-);
-}
-);
-instanceInterpolations = {
-m002 = 0.5;
-m01 = 0.5;
-};
-isItalic = 1;
-name = "Regular Italic";
 }
 );
 kerningLTR = {
@@ -17489,7 +17471,7 @@ m01 = {
 "@MMK_R_V" = -20;
 };
 "@MMK_L_F" = {
-"@MMK_R_A" = -70;
+"@MMK_R_A" = -110;
 };
 "@MMK_L_G" = {
 "@MMK_R_j" = -20;
