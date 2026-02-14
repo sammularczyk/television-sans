@@ -1,6 +1,6 @@
 # Television Sans
 
-A geometric, 80’s inspired variable typeface.
+A variable, friendly geometric sans, inspired by newsprint ads from the 1980s.
 
 > [!WARNING]
 > This is WIP. Feedback very welcome! Missing accents. Latin alphabet is complete but will tweak over time.
