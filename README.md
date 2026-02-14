@@ -13,7 +13,7 @@ A variable, friendly geometric sans, inspired by newsprint ads from the 1980s.
 
 ## Todos
 - Fix accents and diacritics
-- Add ampersand, copyright, degree symbol etc
+- Add copyright, degree symbol etc
 
 ## License
 Released under the SIL Open Font License. Television Sans is a reserved font name - meaning any releases with the same font name need to be approved.
