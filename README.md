@@ -2,8 +2,7 @@
 
 A variable, friendly geometric sans, inspired by newsprint ads from the 1980s.
 
-> [!WARNING]
-> This is WIP. Feedback very welcome! Missing accents. Latin alphabet is complete but will tweak over time.
+Feedback welcome!
 
 ![Television Sans Preview](/docs/images/television-sans-01.png)
 
@@ -12,8 +11,7 @@ A variable, friendly geometric sans, inspired by newsprint ads from the 1980s.
 ![Television Sans Preview](/docs/images/television-sans-03.png)
 
 ## Todos
-- Fix accents and diacritics
-- Add copyright, degree symbol etc
+- Add accents and diacritics
 
 ## License
 Released under the SIL Open Font License. Television Sans is a reserved font name - meaning any releases with the same font name need to be approved.

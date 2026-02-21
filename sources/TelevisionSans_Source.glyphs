@@ -5,7 +5,6 @@ DisplayStrings = (
 "FFANTFifieSIONAickINDERTERinorinhnznWombok motown? ojDrire
 
 Hot & LYLVSexy",
-"",
 E,
 "@",
 "฿",
@@ -38,10 +37,7 @@ tmartfan,
 "/f.ss05/t.ss05/f.ss05/t.ss05",
 "/f.ss05/f.ss05",
 "/f.ss05/f.ss05",
-"",
-"",
 "/f_t.liga For",
-"",
 "/t.ss05/t_f.liga.ss05",
 "/t.ss05/t_f.liga.ss05",
 "bra/t_f.liga.ss05 h",
@@ -58,7 +54,6 @@ t,
 "1670's inspired",
 "/one.ss06",
 RUvula,
-"",
 m,
 u,
 Umbrella,
@@ -70,7 +65,7 @@ k,
 "3:2356745689",
 "75°",
 "¢",
-"Hello©"
+"Hello©YouoY,es,"
 );
 axes = (
 {
@@ -2096,7 +2091,7 @@ unicode = 88;
 glyphname = Y;
 kernLeft = V;
 kernRight = Y;
-lastChange = "2026-02-14 07:22:12 +0000";
+lastChange = "2026-02-21 23:13:32 +0000";
 layers = (
 {
 layerId = m01;
@@ -3465,7 +3460,7 @@ unicode = 110;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2026-02-12 00:23:49 +0000";
+lastChange = "2026-02-21 23:13:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -10934,7 +10929,9 @@ m01 = {
 };
 "@MMK_L_Y" = {
 "@MMK_R_O" = -50;
+"@MMK_R_o" = -90;
 "@MMK_R_p" = -20;
+"@MMK_R_period" = -100;
 "@MMK_R_s" = -30;
 };
 "@MMK_L_h" = {
@@ -10947,6 +10944,7 @@ m01 = {
 "@MMK_R_w" = -30;
 };
 "@MMK_L_o" = {
+"@MMK_R_V" = -90;
 "@MMK_R_j" = -40;
 "@MMK_R_question" = -40;
 "@MMK_R_w" = -20;
@@ -11027,6 +11025,8 @@ m002 = {
 "@MMK_R_P" = -10;
 "@MMK_R_a" = -50;
 "@MMK_R_e" = -50;
+"@MMK_R_o" = -70;
+"@MMK_R_period" = -100;
 };
 "@MMK_L_f" = {
 "@MMK_R_o" = -40;
